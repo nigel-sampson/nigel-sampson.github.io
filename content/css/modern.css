@@ -1,0 +1,80 @@
+@font-face {
+	font-family: 'modern';
+	src:url('../fonts/modern.eot?njqk60');
+	src:url('../fonts/modern.eot?#iefixnjqk60') format('embedded-opentype'),
+		url('../fonts/modern.woff?njqk60') format('woff'),
+		url('../fonts/modern.ttf?njqk60') format('truetype'),
+		url('../fonts/icomoon.svg?njqk60#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'modern';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	font-size: 2.5rem;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-settings:before {
+	content: "\e600";
+}
+.icon-cloud:before {
+	content: "\e601";
+}
+.icon-rss:before {
+	content: "\e602";
+}
+.icon-stackoverflow:before {
+	content: "\e603";
+}
+.icon-tablet:before {
+	content: "\e604";
+}
+.icon-windows-phone:before {
+	content: "\e605";
+}
+.icon-windows-8:before {
+	content: "\e606";
+}
+.icon-windows-rt:before {
+	content: "\e607";
+}
+.icon-twitter:before {
+	content: "\e608";
+}
+.icon-microsoft:before {
+	content: "\e609";
+}
+.icon-linkedin:before {
+	content: "\e60a";
+}
+.icon-github:before {
+	content: "\e60b";
+}
+.icon-github:hover {
+	color: #4183c4;
+}
+.icon-twitter:hover {
+	color: #00aced;
+}
+.icon-linkedin:hover {
+	color: #007bb6;
+}
+.icon-linkedin:hover {
+	color: #007bb6;
+}
+.icon-stackoverflow:hover {
+	color: #ff9900;
+}
+.icon-rss:hover {
+	color: #FF6600;
+}

@@ -1,0 +1,88 @@
+---
+layout: base
+title: Silverlight Animation Examples
+---
+
+<div class="content container">
+    <div class="page">
+
+        <h1>Silverlight Animation Examples</h1>
+        <h3>Position</h3>
+        <p>Dicussed in <a href="/blog/posts/beginning-a-silverlight-animation-framework">Beginning a Silverlight Animation framework</a>.</p>
+        <div id="position">&nbsp;</div>
+
+        <h3>Size</h3>
+        <p>Dicussed in <a href="/blog/posts/silverlight-animation-part-2-size">Silverlight Animation Part 2: Size</a>.</p>
+        <div id="size">&nbsp;</div>
+
+        <h3>Opacity</h3>
+        <p>Dicussed in <a href="/blog/posts/silverlight-animation-part-3-opacity">Silverlight Animation Part 3: Opacity</a>.</p>
+        <div id="opacity">&nbsp;</div>
+
+        <h3>Transforms</h3>
+        <p>Dicussed in <a href="/blog/posts/silverlight-animation-part-4-transforms">Silverlight Animation Part 4: Transforms</a>.</p>
+        <div id="transforms">&nbsp;</div>
+
+        
+    </div>
+</div>
+
+<script type="text/javascript" src=../content/js/silverlight.js></script>
+<script type="text/javascript">
+    Silverlight.createObject(
+        "http://content.compiledexperience.com/clientbin/animation.position.xap",  // source
+        document.getElementById('position'),  // parent element
+        "positionPlugin",  // id for generated object element
+        {
+            width: "560", height: "300", background: "white", 
+            version:"3.0.40818.0"
+        },
+        // See the event handlers in the full example.
+        {  },
+        "", 
+        "position"    // context helper for onLoad handler.
+        );
+
+    Silverlight.createObject(
+        "http://content.compiledexperience.com/clientbin/animation.size.xap",  // source
+        document.getElementById('size'),  // parent element
+        "sizePlugin",  // id for generated object element
+        {
+            width: "560", height: "300", background: "white", 
+            version:"3.0.40818.0"
+        },
+        // See the event handlers in the full example.
+        {  },
+        "", 
+        "size"    // context helper for onLoad handler.
+        );
+
+    Silverlight.createObject(
+        "http://content.compiledexperience.com/clientbin/animation.opacity.xap",  // source
+        document.getElementById('opacity'),  // parent element
+        "opacityPlugin",  // id for generated object element
+        {
+            width: "560", height: "300", background: "white", 
+            version:"3.0.40818.0"
+        },
+        // See the event handlers in the full example.
+        {  },
+        "", 
+        "opacity"    // context helper for onLoad handler.
+        );
+
+    Silverlight.createObject(
+        "http://content.compiledexperience.com/clientbin/animation.transform.xap",  // source
+        document.getElementById('transforms'),  // parent element
+        "transformsPlugin",  // id for generated object element
+        {
+            width: "560", height: "300", background: "white", 
+            version:"3.0.40818.0"
+        },
+        // See the event handlers in the full example.
+        {  },
+        "", 
+        "transforms"    // context helper for onLoad handler.
+        );
+</script>
+

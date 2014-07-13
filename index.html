@@ -1,0 +1,27 @@
+---
+layout: default
+title: Home
+---
+
+<h1>Windows Platform Development</h1>
+<h2>by Nigel Sampson</h2>
+
+<p>I'm a software developer in the .NET ecosystem building web and mobile solutions since 2002. More and more I'm becoming involved with the open source community contributing to a number of projects.</p>
+<p>I'm currently based in Auckland, New Zealand.</p>
+
+
+<div class="related">
+  <h2>Latest Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,21 @@
+# Dependencies
+markdown: redcarpet
+pygments: false
+
+# Permalinks
+permalink: '/blog/posts/:title'
+
+# Setup
+name: Compiled Experience
+tagline: 'Windows Platform Development'
+description: 'Nigel Sampson'
+url: http://compiledexperience.com
+
+author:
+  name: 'Nigel Sampson'
+  email: nigel.sampson@compiledexperience.com
+  twitter: https://twitter.com/nigelsampson
+  github: https://github.com/nigel-sampson 
+
+paginate: 5
+paginate_path: '/blog/:num'

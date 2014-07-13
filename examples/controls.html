@@ -1,0 +1,33 @@
+---
+layout: base
+title: Silverlight Controls Examples
+---
+
+<div class="content container">
+    <div class="page">
+        <h1>Silverlight Controls Examples</h1>
+
+        <h3>Focus Panel</h3>
+        <p>Dicussed in <a href="/blog/posts/using-our-animation-framework-a-focus-panel">Using our animation framework, a Focus Panel</a>.</p>
+        <div id="focuspanel">&nbsp;</div>
+
+        
+    </div>
+</div>
+
+<script type="text/javascript" src=../content/js/silverlight.js></script>
+<script type="text/javascript">
+    Silverlight.createObject(
+        "http://content.compiledexperience.com/clientbin/controls.focuspanel.xap",  // source
+        document.getElementById('focuspanel'),  // parent element
+        "focuspanelPlugin",  // id for generated object element
+        {
+            width: "560", height: "300", background: "white", 
+            version:"3.0.40818.0"
+        },
+        // See the event handlers in the full example.
+        {  },
+        "", 
+        "focuspanel"    // context helper for onLoad handler.
+        );
+</script>
