@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spinkit.Xaml now supports 
+title: Spinkit.Xaml now supports Universal apps.
 tags: windows-apps windows-phone spinkit
 ---
 
