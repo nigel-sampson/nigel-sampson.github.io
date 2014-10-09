@@ -15,6 +15,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Talks
 
+ - [Store submission is just the first step][store] - Tech Ed New Zealand 2014.
  - [Charming Windows 8][charming] - Tech Ed New Zealand 2013.
  - [Everything You Need to Know About Building REAL XAML Apps for Windows 8][xaml] - Tech Ed New Zealand 2012.
  - [Siri, watch out!][siri] - Auckland Windows Apps Meetup 2012.
@@ -34,3 +35,4 @@ I'm currently based in Auckland, New Zealand.
 [charming]: https://bitbucket.org/nigel.sampson/voice-demo
 [xaml]: http://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/APP301
 [mvp]: https://mvp.microsoft.com/en-us/mvp/Nigel%20Sampson-5000468
+[store]: https://channel9.msdn.com/Events/TechEd/NewZealand/2014/WIN203
