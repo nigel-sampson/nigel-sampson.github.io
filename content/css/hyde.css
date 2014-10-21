@@ -79,7 +79,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Segoe UI Black", "Segoe WP Black", sans-serif;
+  font-family: "Segoe UI", "Segoe WP", sans-serif;
+  font-weight: 900;
   font-size: 2.5rem;
 }
 
@@ -90,7 +91,8 @@ html {
 }
 .sidebar-nav-item {
   display: block;
-  font-family: "Segoe UI Light";
+  font-family: "Segoe UI";
+  font-weight: 300;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -105,7 +107,8 @@ a.sidebar-nav-item:focus {
 }
 
 .copyright {
-    font-family: "Segoe UI Light", "Segoe WP Light";
+    font-family: "Segoe UI", "Segoe WP";
+    font-weight: 300;
 }
 
 /* Sticky sidebar

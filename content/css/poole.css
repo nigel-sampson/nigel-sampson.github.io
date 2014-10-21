@@ -83,7 +83,8 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
-  font-family: "Segoe UI Light", "Segoe WP Light", Helvetica, Arial, sans-serif;
+  font-family: "Segoe UI", "Segoe WP", Helvetica, Arial, sans-serif;
+  font-weight: 300;
 }
 h1 {
   font-size: 2rem;
@@ -232,7 +233,7 @@ tbody tr:nth-child(odd) th {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
-  font-family: "Segoe UI Light", "Segoe WP Light";
+  font-family: "Segoe UI", "Segoe WP";
 }
 
 
