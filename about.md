@@ -11,10 +11,13 @@ I'm currently based in Auckland, New Zealand.
 
  - [Calibun Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the Windows 8 and Windows 8.1 ports.
  - [Spinkit.Xaml][sk] - The conversion of popular CSS spinners to Windows 8 xaml for the Progress Ring control.
+ - [Spectrum][spec] - A library to do colour space conversions in .NET and extended into xaml for palette declarations.
+ - [Octokit.Caching][caching] - A caching plugin for Octokit using etags and a simple in memory cache.
  - [Xbox Media Remote][xmr] - A Windows 8 app for browsing remote media sources and using Play To to send to the Xbox One, also functions as an example for [Calburn.Micro][cm] functionality.
 
 ## Talks
 
+ - [Turning good apps into great ones][msa] - Microsoft Student Accelerator 2014.
  - [Store submission is just the first step][store] - Tech Ed New Zealand 2014.
  - [Charming Windows 8][charming] - Tech Ed New Zealand 2013.
  - [Everything You Need to Know About Building REAL XAML Apps for Windows 8][xaml] - Tech Ed New Zealand 2012.
@@ -24,7 +27,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Awards
 
- - [Microsoft MVP 2014 Windows Platform Development][mvp].
+ - [Microsoft MVP 2014 - 20015 Windows Platform Development][mvp].
 
 [cm]: https://github.com/BlueSpire/Caliburn.Micro/
 [sk]: https://github.com/nigel-sampson/spinkit-xaml
@@ -36,3 +39,6 @@ I'm currently based in Auckland, New Zealand.
 [xaml]: http://channel9.msdn.com/Events/TechEd/NewZealand/TechEd-New-Zealand-2012/APP301
 [mvp]: https://mvp.microsoft.com/en-us/mvp/Nigel%20Sampson-5000468
 [store]: https://channel9.msdn.com/Events/TechEd/NewZealand/2014/WIN203
+[msa]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!26511&authkey=!AFyecBy1cjKYL6E&ithint=file%2cpptx
+[spec]: https://github.com/nigel-sampson/spectrum
+[caching]: https://github.com/nigel-sampson/octokit.caching
