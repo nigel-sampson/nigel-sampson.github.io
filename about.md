@@ -27,7 +27,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Awards
 
- - [Microsoft MVP 2014 - 20015 Windows Platform Development][mvp].
+ - [Microsoft MVP 2014 - 2015 Windows Platform Development][mvp].
 
 [cm]: https://github.com/BlueSpire/Caliburn.Micro/
 [sk]: https://github.com/nigel-sampson/spinkit-xaml
