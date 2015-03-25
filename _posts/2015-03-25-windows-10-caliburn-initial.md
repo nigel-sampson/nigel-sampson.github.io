@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows 10 SDK released	
+title: Windows 10 and Caliburn.Micro initial comments
 tags: caliburn-micro windows-apps windows-phone  
 ---
 
