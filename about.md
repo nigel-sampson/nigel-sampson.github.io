@@ -9,7 +9,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Open Source Projects
 
- - [Calibun Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the Windows 8 and Windows 8.1 ports.
+ - [Calibun Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
  - [Spinkit.Xaml][sk] - The conversion of popular CSS spinners to Windows 8 xaml for the Progress Ring control.
  - [Spectrum][spec] - A library to do colour space conversions in .NET and extended into xaml for palette declarations.
  - [Octokit.Caching][caching] - A caching plugin for Octokit using etags and a simple in memory cache.
@@ -17,6 +17,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Talks
 
+ - [Turning good apps into great ones with Azure][comcamp] - MVP ComCamp February 2015.
  - [Turning good apps into great ones][msa] - Microsoft Student Accelerator 2014.
  - [Store submission is just the first step][store] - Tech Ed New Zealand 2014.
  - [Charming Windows 8][charming] - Tech Ed New Zealand 2013.
@@ -29,7 +30,7 @@ I'm currently based in Auckland, New Zealand.
 
  - [Microsoft MVP 2014 - 2015 Windows Platform Development][mvp].
 
-[cm]: https://github.com/BlueSpire/Caliburn.Micro/
+[cm]: http://caliburnmicro.com/
 [sk]: https://github.com/nigel-sampson/spinkit-xaml
 [xmr]: https://github.com/nigel-sampson/xbox-media-remote
 [improve]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!137&authkey=!AF8UgTHqVwS-Iro&ithint=file%2c.pptx
@@ -42,3 +43,4 @@ I'm currently based in Auckland, New Zealand.
 [msa]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!26511&authkey=!AFyecBy1cjKYL6E&ithint=file%2cpptx
 [spec]: https://github.com/nigel-sampson/spectrum
 [caching]: https://github.com/nigel-sampson/octokit.caching
+[comcamp]: http://1drv.ms/1LV0nGC
