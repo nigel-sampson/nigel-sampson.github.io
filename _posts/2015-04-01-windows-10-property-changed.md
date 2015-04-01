@@ -21,9 +21,9 @@ Also because the signature of the delegate takes the `DependencyObject` and the 
 In our example we want to register when the `IsReadOnly` property of a `TextBox` changes.
 
 ``` csharp
-Username.RegisterPropertyChangedCallback(TextBox.IsReadOnlyProperty, (s, p) =>
+Username.RegisterPropertyChangedCallback(TextBox.IsReadOnlyProperty, (sender, property) =>
 {
-	Debug.WriteLine("Is Read Only Changed: {0}", Entry.IsEnabled);
+	Debug.WriteLine("Is Read Only Changed: {0}", Username.IsReadOnly);
 });
 ```
 
