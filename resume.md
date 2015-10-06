@@ -18,21 +18,39 @@ A C# / Mobile Developer from Auckland New Zealand.
 
 ### Marker Metro
 
+*Senioer Developer & Technical Apps Lead - April 2012 - Present Day*
+
 ### MCom
+
+*Developer - November 2011 - March 2012*
+
+Contracting at M-Com four five months assisted in developing a mobile banking solution for the Pacific Islands over USSD. Focusing mostly on WCF integration services and middleware development as well as supporting other team members in applying unit tests to their code.
 
 ### Vista
 
+*Senior Developer - December 2010 - October 2011*
+
+While at Vista for a 10 month contract prototyped the initial infrastructure and was part of the team that developed a Microsoft Azure based SaaS application. Technologies used included ASP.NET MVC, Windows Azure, Entity Framework and Lokad.Cloud.
+
+The work done on this project around topics such as Domain Driven Design and Unit Testing with Mocks have become the foundations for other ongoing efforts in the company.
+
 ### Ice Interactive
+
+*Lead Developer - May 2008 - December 2010*
+
+Returned to Image Centre (who had rebranded their interactive services as Ice Interactive) as the senior developer again developing ASP.NET solutions for clients as well as some Silverlight projects. Helped migrate core infrastructure to .NET 3.5 with Linq to SQL and associated frameworks.
 
 ### Iciniti
 
-### Image Centre - Lead Developer - March 2005 - August 2006
+*Senior Product Developer - February 2007 - April 2008*
 
-### Image Centre - Developer - February 2003 - March 2005
-#### Developer - February 2003 - March 2005
+Worked within the product team at Iciniti including an ERP integrated POS solution. Lead the research and development of prototypes for the next version of their main product an ASP.NET E-Commerce system using technologies including NHibernate and Castle Windsor.
 
- - Developed web applications for clients using ASP.NET, C# and SQL Server.
- - Maintained existing client applications in 
+### Image Centre
+
+*Developer & Lead Developer - February 2003 - August 2006*
+
+Developed bespoke ASP.NET web applications for clients as well as maintenance of existing VBScript / COM solutions. Was technical lead a team of five developers. Solutions included Content Management, Digital Asset Management, ECommerce and Web Service integration.
 
 ## Open Source
  - [Calibun Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
