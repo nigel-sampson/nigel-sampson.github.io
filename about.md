@@ -17,6 +17,8 @@ I'm currently based in Auckland, New Zealand.
 
 ## Talks
 
+ - [Developing Cross Platform Mobile Apps with XAML and MVVM][crossplat] - Microsoft Ignite New Zealand 2015 & Auckland Code Camp 2015
+ - [Xamarin 101][xam] - North Shore .NET User Group
  - [Turning good apps into great ones with Azure][comcamp] - MVP ComCamp February 2015.
  - [Turning good apps into great ones][msa] - Microsoft Student Accelerator 2014.
  - [Store submission is just the first step][store] - Tech Ed New Zealand 2014.
@@ -30,6 +32,8 @@ I'm currently based in Auckland, New Zealand.
 
  - [Microsoft MVP 2014 - 2015 Windows Platform Development][mvp].
 
+[crossplat]: https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M347
+[xam]: http://1drv.ms/1OwWR5F
 [cm]: http://caliburnmicro.com/
 [sk]: https://github.com/nigel-sampson/spinkit-xaml
 [xmr]: https://github.com/nigel-sampson/xbox-media-remote
