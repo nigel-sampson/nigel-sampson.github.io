@@ -9,7 +9,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Open Source Projects
 
- - [Calibun Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
+ - [Caliburn Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
  - [Spinkit.Xaml][sk] - The conversion of popular CSS spinners to Windows 8 xaml for the Progress Ring control.
  - [Spectrum][spec] - A library to do colour space conversions in .NET and extended into xaml for palette declarations.
  - [Octokit.Caching][caching] - A caching plugin for Octokit using etags and a simple in memory cache.

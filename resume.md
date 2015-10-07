@@ -28,11 +28,15 @@ Strong communication with clients both in meetings and written documentation was
 
 Responsibilities also included engaging with the community promoting app development at both company & community sponsored events.
 
+*Windows Apps, Windows Phone Apps, C#, XAML, MVVM, REST Services, JSON, Unit Testing, Xamarin*
+
 ### MCom
 
 *Developer - November 2011 - March 2012*
 
 Contracting at MCom four five months assisted in developing a mobile banking solution for the Pacific Islands over USSD. Focusing mostly on WCF integration services and middleware development as well as supporting other team members in applying unit tests to their code.
+
+*C#, WCF, WSDL, Unit Testing*
 
 ### Vista
 
@@ -42,11 +46,15 @@ While at Vista for a 10 month contract prototyped the initial infrastructure and
 
 The work done on this project around topics such as Domain Driven Design and Unit Testing with Mocks have become the foundations for other ongoing efforts in the company.
 
+*ASP.NET MVC, C#, SQL Server, Entity Framework, HTML, CSS, Javascript*
+
 ### Ice Interactive
 
 *Lead Developer - May 2008 - December 2010*
 
 Returned to Image Centre (who had re-branded their interactive services as Ice Interactive) as the senior developer again developing ASP.NET solutions for clients as well as some Silverlight projects. Helped migrate core infrastructure to .NET 3.5 with Linq to SQL and associated frameworks.
+
+*ASP.NET, C#, SQL Server, Linq to SQL, HTML, CSS, Javascript, Silverlight*
 
 ### Iciniti
 
@@ -54,14 +62,18 @@ Returned to Image Centre (who had re-branded their interactive services as Ice I
 
 Worked within the product team at Iciniti including an ERP integrated POS solution. Led the research and development of prototypes for the next version of their main product an ASP.NET E-commerce system using technologies including NHibernate and Castle Windsor.
 
+*ASP.NET, C#, MySQL, NHibernate*
+
 ### Image Centre
 
 *Developer & Lead Developer - February 2003 - August 2006*
 
 Developed bespoke ASP.NET web applications for clients as well as maintenance of existing VBScript / COM solutions. Was technical lead a team of five developers. Solutions included Content Management, Digital Asset Management, E-commerce and Web Service integration.
 
+*ASP.NET, C#, SQL Server, Linq to SQL, HTML, CSS, Javascript*
+
 ## Open Source
- - [Calibun Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
+ - [Caliburn Micro][cm] - An opinionated MVVM framework for all .NET and Xamarin platforms, I'm primarily responsible for the modern platform ports and am now the project steward.
  - [Spinkit.Xaml][sk] - The conversion of popular CSS spinners to Windows 8 xaml for the Progress Ring control.
  - [Spectrum][spec] - A library to do colour space conversions in .NET and extended into xaml for palette declarations.
  - [Octokit.Caching][caching] - A caching plugin for Octokit using etags and a simple in memory cache.
