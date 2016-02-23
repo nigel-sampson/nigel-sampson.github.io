@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a software developer in the .NET ecosystem building web and mobile solutions since 2002. More and more I'm becoming involved with the open source community contributing to a number of projects.
+I'm a software developer in the .NET ecosystem building mobile and web solutions since 2002. More and more I'm becoming involved with the open source community contributing to a number of projects.
 
 I'm currently based in Auckland, New Zealand.
 
