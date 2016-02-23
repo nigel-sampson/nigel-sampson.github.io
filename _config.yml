@@ -1,6 +1,5 @@
 # Dependencies
-markdown: redcarpet
-pygments: false
+markdown: kramdown
 
 # Permalinks
 permalink: '/blog/posts/:title'
