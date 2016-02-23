@@ -1,5 +1,6 @@
 # Dependencies
 markdown: kramdown
+pygments: false
 
 # Permalinks
 permalink: '/blog/posts/:title'
