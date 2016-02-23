@@ -34,7 +34,7 @@ Responsibilities also included engaging with the community promoting app develop
 
 *Developer - November 2011 - March 2012*
 
-Contracting at MCom four five months assisted in developing a mobile banking solution for the Pacific Islands over USSD. Focusing mostly on WCF integration services and middleware development as well as supporting other team members in applying unit tests to their code.
+Contracting at MCom for five months assisted in developing a mobile banking solution for the Pacific Islands over USSD. Focusing mostly on WCF integration services and middleware development as well as supporting other team members in applying unit tests to their code.
 
 *C#, WCF, WSDL, Unit Testing*
 
