@@ -19,3 +19,4 @@ author:
 
 paginate: 5
 paginate_path: '/blog/:num'
+future: true
