@@ -16,7 +16,7 @@ A C# / Mobile Developer with fourteen years industry experience from Auckland Ne
 
 During spare time worked on both my own mobile applications and open source projects (listed below). The most successful is [Hubb][hubb], a Windows app that turns GitHub issues into a Kanban style board including markdown support.
 
-In 2014 took over leadership of the [Caliburn.Micro][cm] open source project after spearheading the Windows 8 and Windows Phone 8.1 support. Since then have led the 3.0.0 version push which includes cross platform support with Xamarin.
+In 2014 took over leadership of the [Caliburn.Micro][cm] open source project after spearheading the Windows 8 and Windows Phone 8.1 support. Since then have led the 3.0.0 version push which includes cross platform support with Xamarin with over 200,000 downloads through Nuget.
 
 ### Marker Metro
 
@@ -93,7 +93,7 @@ Developed bespoke ASP.NET web applications for clients as well as maintenance of
 
 ## Awards
 
- - Microsoft MVP 2014-2015 Windows Platform Development
+ - Microsoft MVP 2014-2016 Windows Platform Development
 
 ## Education
 
