@@ -17,6 +17,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Talks
 
+ - [Cross Platform Mobile Development with Mobile Apps and Xamarin][azure] - Auckland Azure Lunchtime Meetup 2016
  - [Developing Cross Platform Mobile Apps with XAML and MVVM][crossplat] - Microsoft Ignite New Zealand 2015 & Auckland Code Camp 2015
  - [Xamarin 101][xam] - North Shore .NET User Group
  - [Turning good apps into great ones with Azure][comcamp] - MVP ComCamp February 2015.
@@ -48,3 +49,4 @@ I'm currently based in Auckland, New Zealand.
 [spec]: https://github.com/nigel-sampson/spectrum
 [caching]: https://github.com/nigel-sampson/octokit.caching
 [comcamp]: http://1drv.ms/1LV0nGC
+[azure]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!275407&authkey=!ANlM8bnryckcXig&ithint=file%2cpptx
