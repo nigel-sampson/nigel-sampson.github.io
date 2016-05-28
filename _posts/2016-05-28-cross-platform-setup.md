@@ -14,7 +14,7 @@ I picked up a [Dell U3415W][dell] and so far am in love with it. While doing Win
 
 Where it really steps up is doing iOS / Xamarin development, I can switch on Picture by Picture mode giving half the screen to the Windows machine and half to the Mac. The Windows machine is using HDMI and the Mac Display Port. This gives each device 1720 x 1440 to play with which is plenty.
 
-<a href="/content/images/posts/cross-platform-setup.png"><img width="600" src="/content/images/posts/colours.png"/></a>
+<a href="/content/images/posts/cross-platform-setup.jpg"><img width="600" src="/content/images/posts/cross-platform-setup.jpg"/></a>
 
 Installing [Synergy][synergy] on both machines means I can use the same mouse and keyboard for both including copy & pasting. The whole thing is so seamless I occasionally find myself trying to drag windows from one side to the other.
 
