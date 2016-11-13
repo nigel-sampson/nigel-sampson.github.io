@@ -14,15 +14,6 @@ If there's something you'd like me to write about or find a problem with the web
 
 Alternatively you can contact via phone on **+64 21 1177957** or my Twitter account [@nigelsampson][twitter].
 
-My postal address is:
-
-```
-7 Cronin Place,
-Beach Haven,
-Auckland 0626,
-New Zealand
-```
-
 [email]: mailto:nigel.sampson@compiledexperience.com
 [twitter]: https://twitter.com/nigelsampson
 [github]: https://github.com/nigel-sampson
