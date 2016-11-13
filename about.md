@@ -16,7 +16,8 @@ I'm currently based in Auckland, New Zealand.
  - [Xbox Media Remote][xmr] - A Windows 8 app for browsing remote media sources and using Play To to send to the Xbox One, also functions as an example for [Calburn.Micro][cm] functionality.
 
 ## Talks
-
+ - [Cross Platform Apps with Caliburn.Micro][ndc] - NDC Sydney 2016 & Auckland Xamarin Meetups
+ - [What's new in Windows 10 Anniversary Edition][win10] - Microsoft Ignite New Zealand 2016 
  - [Cross Platform Mobile Development with Mobile Apps and Xamarin][azure] - Auckland Azure Lunchtime Meetup 2016
  - [Developing Cross Platform Mobile Apps with XAML and MVVM][crossplat] - Microsoft Ignite New Zealand 2015 & Auckland Code Camp 2015
  - [Xamarin 101][xam] - North Shore .NET User Group
@@ -50,3 +51,5 @@ I'm currently based in Auckland, New Zealand.
 [caching]: https://github.com/nigel-sampson/octokit.caching
 [comcamp]: http://1drv.ms/1LV0nGC
 [azure]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!275407&authkey=!ANlM8bnryckcXig&ithint=file%2cpptx
+[ndc]: https://www.youtube.com/watch?v=x266Vy4tfT0
+[win10]: https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M319
