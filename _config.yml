@@ -12,7 +12,7 @@ url: http://compiledexperience.com
 logo: /content/apple-touch-icon-144-precomposed.png
 
 gems:
-  -jeykll-seo-tag
+  - jeykll-seo-tag
 
 author:
   name: 'Nigel Sampson'
