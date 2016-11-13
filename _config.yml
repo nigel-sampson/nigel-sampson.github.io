@@ -7,14 +7,29 @@ permalink: '/blog/posts/:title'
 # Setup
 name: Compiled Experience
 tagline: 'Windows Platform Development'
-description: 'Nigel Sampson'
+description: 'personal blog of Nigel Sampson'
 url: http://compiledexperience.com
+logo: /content/apple-touch-icon-144-precomposed.png
+
+gems:
+  -jeykll-seo-tag
 
 author:
   name: 'Nigel Sampson'
   email: nigel.sampson@compiledexperience.com
   twitter: https://twitter.com/nigelsampson
   github: https://github.com/nigel-sampson 
+
+twitter:
+  username: nigelsampson
+
+social:
+  name: Nigel Sampson
+  links:
+    - https://twitter.com/nigelsampson
+    - https://github.com/nigel-sampson
+    - http://www.linkedin.com/pub/nigel-sampson/10/a37/249
+    - http://stackoverflow.com/users/90457/nigel-sampson
 
 paginate: 5
 paginate_path: '/blog/:num'
