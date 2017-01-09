@@ -32,7 +32,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Awards
 
- - [Microsoft MVP 2014 - 2016 Windows Platform Development][mvp].
+ - [Microsoft MVP 2014 - 2017 Windows Platform Development][mvp].
 
 [crossplat]: https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M347
 [xam]: http://1drv.ms/1OwWR5F

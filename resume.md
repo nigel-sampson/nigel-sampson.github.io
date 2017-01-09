@@ -93,7 +93,7 @@ Developed bespoke ASP.NET web applications for clients as well as maintenance of
 
 ## Awards
 
- - Microsoft MVP 2014-2016 Windows Platform Development
+ - Microsoft MVP 2014-2017 Windows Platform Development
 
 ## Education
 
