@@ -20,6 +20,9 @@ redirect_from: /blog/syndicate/rss
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 				<author>{{ site.author.email }} ({{ site.author.name }})</author>
+				{% for tag in post.tags %}
+				<category>{{ tag }}</category>
+  				{% endfor %}
 			</item>
 		{% endfor %}
 	</channel>
