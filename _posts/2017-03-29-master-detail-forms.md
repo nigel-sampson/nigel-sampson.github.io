@@ -182,4 +182,4 @@ We can use contexts to have multiples views for a view model even further reduci
 The code for all of this is up on a new [GitHub samples repository][samples] where I plan to post more of the code from posts like these.
 
 [tabs]: /blog/posts/tabbed-page-conductor
-[sample]: https://github.com/nigel-sampson/samples/tree/master/MasterDetail
+[samples]: https://github.com/nigel-sampson/samples/tree/master/MasterDetail
