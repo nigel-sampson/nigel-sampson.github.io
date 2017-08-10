@@ -4,7 +4,7 @@ title: Command conventions in Caliburn.Micro
 tags: csharp xamarin caliburn-micro
 ---
 
-I've you've ever spoken to me personally at a convention or a user group (I'll be at [NDC Sydney][ndc] if next week, comes say hello) then you may have heard me talk about disliking command objects in MVVM. 
+If you've ever spoken to me personally at a convention or a user group (I'll be at [NDC Sydney][ndc] if next week, comes say hello) then you may have heard me talk about disliking command objects in MVVM. 
 
 In my opinion (and it's just that, my opinion) most commands don't add any value to the main goals for using MVVM (maintainability, readability and testability). Typically they're just an object that wraps a method, sometimes also a predicate for CanExecute but that's it. What they mostly add is ceremony to the view model and not much more, you typically see this in commands named RelayCommand or DelegateCommand.
 
