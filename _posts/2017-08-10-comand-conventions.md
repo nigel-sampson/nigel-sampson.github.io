@@ -6,9 +6,9 @@ tags: csharp xamarin caliburn-micro
 
 If you've ever spoken to me personally at a convention or a user group (I'll be at [NDC Sydney][ndc] if next week, comes say hello) then you may have heard me talk about disliking command objects in MVVM. 
 
-In my opinion (and it's just that, my opinion) most commands don't add any value to the main goals for using MVVM (maintainability, readability and testability). Typically they're just an object that wraps a method, sometimes also a predicate for CanExecute but that's it. What they mostly add is ceremony to the view model and not much more, you typically see this in commands named RelayCommand or DelegateCommand.
+In my opinion (and it's just that, my opinion) most commands don't add any value to the main goals for using MVVM (maintainability, readability and testability). Typically they're just an object that wraps a method, sometimes also a predicate for CanExecute but that's it. What they mostly add is ceremony to the view model and not much more, you typically see this in commands named `RelayCommand` or `DelegateCommand`.
 
-Some commands are really useful however, ReactiveCommand in [ReactiveUI][rxui] adds a lot of value when building that style of application and I highly recommend them.
+Some commands are really useful however, `ReactiveCommand` in [ReactiveUI][rxui] adds a lot of value when building that style of application and I highly recommend them. This is a great example where the command adds more then just the ceremony of passing execution to the method.
 
 How can we customize the conventions in Caliburn.Micro to make use of commands? Given that we'd be binding to the command property on the control we can simply modify the convention for controls such as Button. 
 
@@ -46,8 +46,6 @@ Now with our convention in place we can simply give the `Button` the `x:Name` we
 ```
 
 If you're looking to combine the best of [Caliburn.Micro][cm] and [ReactiveUI][rxui] then this may help.
-
-We can then
 
 [rxui]: https://reactiveui.net/
 [ndc]: http://ndcsydney.com/
