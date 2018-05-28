@@ -4,7 +4,7 @@ title: Generation of Assembly Info in Visual Studio 2017
 tags: csharp
 ---
 
-One feature of the new `csproj` format (is there an official name for these?) that I wasn't aware of is the automatic generation of the `assmebly:` attributes we would normally see in `AssemblyInfo.cs`. This can catch you by surprise with some odd errors, especially when migrating existing projects to the format.
+One feature of the new `csproj` format (is there an official name for these?) that I wasn't aware of is the automatic generation of the `assembly:` attributes we would normally see in `AssemblyInfo.cs`. This can catch you by surprise with some odd errors, especially when migrating existing projects to the format.
 
 This feature allows you to define assembly properties such as title, description and version as project properties defined in the `.csproj` that looks like the following.
 
