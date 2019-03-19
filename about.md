@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a software developer in the .NET ecosystem building mobile and web solutions since 2002. More and more I'm becoming involved with the open source community contributing to a number of projects.
+I'm a software developer in the .NET ecosystem building cloud and mobile solutions since 2002. Increasingly I'm becoming involved with the open source community contributing to a number of projects.
 
 I'm currently based in Auckland, New Zealand.
 
@@ -12,7 +12,6 @@ I'm currently based in Auckland, New Zealand.
  - [Caliburn Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
  - [Spinkit.Xaml][sk] - The conversion of popular CSS spinners to Windows 8 xaml for the Progress Ring control.
  - [Spectrum][spec] - A library to do colour space conversions in .NET and extended into xaml for palette declarations.
- - [Octokit.Caching][caching] - A caching plugin for Octokit using etags and a simple in memory cache.
  - [Xbox Media Remote][xmr] - A Windows 8 app for browsing remote media sources and using Play To to send to the Xbox One, also functions as an example for [Calburn.Micro][cm] functionality.
 
 ## Talks
@@ -34,7 +33,7 @@ I'm currently based in Auckland, New Zealand.
 
 ## Awards
 
- - [Microsoft MVP 2014 - 2018 Windows Platform Development][mvp].
+ - [Microsoft MVP 2014 - 2019 Windows Platform Development][mvp].
 
 [crossplat]: https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M347
 [xam]: http://1drv.ms/1OwWR5F
@@ -50,7 +49,6 @@ I'm currently based in Auckland, New Zealand.
 [store]: https://channel9.msdn.com/Events/TechEd/NewZealand/2014/WIN203
 [msa]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!26511&authkey=!AFyecBy1cjKYL6E&ithint=file%2cpptx
 [spec]: https://github.com/nigel-sampson/spectrum
-[caching]: https://github.com/nigel-sampson/octokit.caching
 [comcamp]: http://1drv.ms/1LV0nGC
 [azure]: https://onedrive.live.com/redir?resid=D28A1F0AF33100D0!275407&authkey=!ANlM8bnryckcXig&ithint=file%2cpptx
 [ndc]: https://www.youtube.com/watch?v=x266Vy4tfT0
