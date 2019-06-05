@@ -80,6 +80,8 @@ public class RenameDirectiveType : DirectiveType
 
 We can now build our document rewriter to use this directive
 
+> **Update** I've found a better way to do the following, documented at [ A better approach to GraphQL renames][better].
+
 ``` csharp
 public static class Rewriters
 {
@@ -137,3 +139,4 @@ We can now handle all our renames in the schema files rather than using magic st
 Hope this helps someone.
 
 [hc]: https://hotchocolate.io/
+[better]: /blog/posts/better-rename
