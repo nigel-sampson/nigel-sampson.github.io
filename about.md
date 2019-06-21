@@ -5,7 +5,7 @@ title: About
 
 I'm a software developer in the .NET ecosystem building cloud and mobile solutions since 2002. Increasingly I'm becoming involved with the open source community contributing to a number of projects.
 
-I'm currently based in Auckland, New Zealand.
+I'm currently based in Auckland, New Zealand as a Staff Software Engineer at [Pushpay][pp].
 
 ## Open Source Projects
 
@@ -54,3 +54,4 @@ I'm currently based in Auckland, New Zealand.
 [ndc]: https://www.youtube.com/watch?v=x266Vy4tfT0
 [win10]: https://channel9.msdn.com/Events/Ignite/New-Zealand-2016/M319
 [ndc17]: https://www.youtube.com/watch?v=S9kxokKuFAQ
+[pp]: https://pushpay.com/
