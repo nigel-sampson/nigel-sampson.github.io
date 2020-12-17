@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Securing a GraphQL endpoint
+title: Custom GraphQL scalars
 tags: csharp graphql
 ---
 
