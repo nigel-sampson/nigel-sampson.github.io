@@ -3,19 +3,17 @@ layout: page
 title: About
 ---
 
-I'm a software developer in the .NET ecosystem building cloud and mobile solutions since 2002. Increasingly I'm becoming involved with the open source community contributing to a number of projects.
+I've developed online solutions for companies and clients using the Microsoft .NET Framework since 2003.  This has ranged from cloud based web applications, native mobile applications, custom API integrations and everything in between. Including owning the technical design, identifying trade offs and prioritizing tasks that lead to the highest business value.
 
-I'm currently based in Auckland, New Zealand as a Staff Software Engineer at [Pushpay][pp].
+I'm confident giving technical presentations having spoken at conferences such as Tech-Ed NZ, NDC Sydney, Ignite NZ and .NET Conf as well as countless user groups.
 
-## Open Source Projects
+Throughout these projects I've lead teams of developers, and with code reviews, technical guidance and mentorship have built solid teams that tackled a wide variety of problems with success.
 
- - [Caliburn Micro][cm] - An opinionated MVVM framework for most xaml platforms, I'm primarily responsible for the modern platform ports and am now the project leader.
- - [Spinkit.Xaml][sk] - The conversion of popular CSS spinners to Windows 8 xaml for the Progress Ring control.
- - [Spectrum][spec] - A library to do colour space conversions in .NET and extended into xaml for palette declarations.
- - [Xbox Media Remote][xmr] - A Windows 8 app for browsing remote media sources and using Play To to send to the Xbox One, also functions as an example for [Calburn.Micro][cm] functionality.
+I'm currently based in Auckland, New Zealand as a Principal Software Engineer at [Pushpay][pp].
 
 ## Talks
 
+ - [An Introduction to GraphQL in .NET Core][dotnet2019] - .NET Conf 2019
  - [Techniques in creating great cross platform apps][ndc17] - NDC Sydney 2017
  - [Cross Platform Apps with Caliburn.Micro][ndc] - NDC Sydney 2016 & Auckland Xamarin Meetups
  - [What's new in Windows 10 Anniversary Edition][win10] - Microsoft Ignite New Zealand 2016 
@@ -35,6 +33,7 @@ I'm currently based in Auckland, New Zealand as a Staff Software Engineer at [Pu
 
  - [Microsoft MVP 2014 - 2019 Windows Platform Development][mvp].
 
+[dotnet2019]: https://channel9.msdn.com/Events/dotnetConf/NET-Conf-2019/B307
 [crossplat]: https://channel9.msdn.com/Events/Ignite/Microsoft-Ignite-New-Zealand-2015/M347
 [xam]: http://1drv.ms/1OwWR5F
 [cm]: http://caliburnmicro.com/
