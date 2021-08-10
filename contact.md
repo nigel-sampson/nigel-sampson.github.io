@@ -12,7 +12,7 @@ If there's something you'd like me to write about or find a problem with the web
 
 ## Alternates
 
-Alternatively you can contact via phone on **+64 21 1177957** or my Twitter account [@nigelsampson][twitter].
+Alternatively you can contact me on my Twitter account [@nigelsampson][twitter].
 
 [email]: mailto:nigel.sampson@compiledexperience.com
 [twitter]: https://twitter.com/nigelsampson
